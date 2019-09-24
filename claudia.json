@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "blog-api-executor",
+    "name": "blog-api",
+    "region": "eu-central-1"
+  },
+  "api": {
+    "id": "dal9zp9401"
+  }
+}
