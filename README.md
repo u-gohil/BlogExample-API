@@ -1,1 +1,1 @@
-https://dal9zp9401.execute-api.eu-central-1.amazonaws.com/latest/api/info
+
